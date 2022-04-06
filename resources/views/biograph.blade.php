@@ -4,18 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> profile page </title>
+    <title> biography page </title>
 </head>
 <body>
-
-    <div>
-       <img src="rahel.jpg"><br>
-       <h3> hey i'm sarwar and <br> i'm 
-           22 years old 
-       </h3>
-
-
-    </div>
     
+<div>
+    
+    <h3> hey i'm sarwar and i'm from kurdstan i live in sulaimany and i'm a student Third stage of university</h3>
+
+</div>
+
 </body>
 </html>
